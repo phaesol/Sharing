@@ -1,0 +1,27 @@
+### Django ###
+*.log
+*.pot
+*.pyc
+__pycache__/
+db.sqlite3
+db.sqlite3-journal
+media
+myvenv/
+secrets.json
+migrations
+secrets.json
+
+
+
+### react ###
+.DS_*
+logs
+**/*.backup.*
+**/*.back.*
+node_modules/
+
+
+
+## .vs~code/
+.vscode/*
+!.vscode/settings.json
